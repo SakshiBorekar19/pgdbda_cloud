@@ -1,0 +1,6 @@
+*Technologies*
+
+- Hadoop
+- Spark
+- Python
+  
