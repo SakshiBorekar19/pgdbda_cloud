@@ -6,8 +6,8 @@
 
 --------------
 
-# *Tools*
+# ** *Tools* **
 
-> Tableau
-> Power BI
-> Jupyter Notebook
+- Tableau
+- Power BI
+- Jupyter Notebook
