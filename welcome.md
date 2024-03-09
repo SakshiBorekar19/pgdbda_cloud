@@ -1,9 +1,9 @@
-*Technologies*
+# *Technologies*
 
 - Hadoop
 - Spark
 - Python
   
-*Tools*
+# *Tools*
 
 > Tableau
