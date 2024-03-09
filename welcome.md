@@ -9,3 +9,5 @@
 # *Tools*
 
 > Tableau
+> Power BI
+> Jupyter Notebook
