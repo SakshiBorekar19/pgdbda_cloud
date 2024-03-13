@@ -12,9 +12,9 @@
 - Power BI
 - Jupyter Notebook
 <hr/>
-todays data
+**todays data**
 sakshi and swati has done there changes
-heena and renuka made chnges
-wellcome to IASCD for "PD-DBDA"
-wellcome to to sidhi hostel
+~`heena and renuka made chnges~~
+***wellcome to IASCD for "PD-DBDA"***
+***wellcome to to sidhi hostel***
 
